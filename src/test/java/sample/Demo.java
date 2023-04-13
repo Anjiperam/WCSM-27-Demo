@@ -8,5 +8,10 @@ public class Demo {
 	{
 		System.out.println("this is demo");
 	}
+	@Test
+	public void add()
+	{
+		System.out.println(" i am doing addition");
+	}
 
 }
