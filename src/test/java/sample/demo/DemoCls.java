@@ -6,10 +6,13 @@ public class DemoCls {
 	@Test
 	public void dest() {
 		System.out.println("i am in demo ");
+		System.out.println("i am in demo ");
+		System.out.println("i am in demo ");
 	}
 
 	@Test
 	public void demo() {
 		System.out.println("we are secure for the local repo");
+		System.out.println("i am in demo ");
 	}
 }
